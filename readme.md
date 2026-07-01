@@ -26,7 +26,6 @@ The included sketches configure the Nicla Vision to capture camera frames, calcu
 - [UART integration guide](docments/uart-communication.md)
 - [Camera preview and data format](docments/camera-capture.md)
 - [Example catalog](docments/example-catalog.md)
-- [Release package checklist](docments/handoff-checklist.md)
 
 ## Hardware Connection
 
