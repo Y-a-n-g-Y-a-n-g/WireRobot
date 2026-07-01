@@ -17,7 +17,6 @@ The included sketches configure the Nicla Vision to capture camera frames, calcu
 | `examples/official-portenta-h7/` | Selected official examples for Portenta H7 reference testing |
 | `examples/official-nicla-vision/` | Selected official examples for Nicla Vision reference testing |
 | `examples/uart-communication/` | Working UART sender and receiver sketches for the two-board setup |
-| `test/` | Optional local build logs and temporary diagnostics; not required for normal use |
 
 ## Documentation
 
