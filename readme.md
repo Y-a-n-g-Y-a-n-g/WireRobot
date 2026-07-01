@@ -12,9 +12,7 @@ This package contains the board documentation, Arduino setup notes, selected off
 | `examples/official-portenta-h7/` | Selected Portenta H7 official examples copied for reference |
 | `examples/official-nicla-vision/` | Selected Nicla Vision official examples copied for reference |
 | `examples/uart-communication/` | Final two-board UART sketches |
-| `test/` | Temporary build logs, diagnostic sketches, and capture files; exclude this folder from external delivery if only clean handoff files are required |
 
-The directory name `docments` is kept to match the requested handoff structure.
 
 ## Main Documents
 
