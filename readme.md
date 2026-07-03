@@ -70,4 +70,4 @@ UART_STATUS lines=33 bytes=3936
 - [Arduino Nicla Vision product page](https://store.arduino.cc/products/nicla-vision)
 - [Arduino Nicla Vision hardware documentation](https://docs.arduino.cc/hardware/nicla-vision/)
 
-Local copies of official pinout, datasheet, and schematic PDFs are available in `docments/assets/`.
+Local copies of official pinout, datasheet, and schematic PDFs are available in `./docments/assets/`.
